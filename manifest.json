@@ -1,0 +1,9 @@
+{
+    "name": "Our Progressive Audio Interface",
+    "short_name": "Our Interface",
+    "description": "Connect with your audio device.",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+}
